@@ -20,7 +20,7 @@ const PricingCard = ({card}) => {
       }
       </div>
       <div>
-        <button className="btn w-full">Subscribe</button>
+        <button className="btn w-full text-white">Subscribe</button>
       </div>
     </section>
   );
