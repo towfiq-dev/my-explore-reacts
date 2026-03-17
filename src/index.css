@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
 @plugin "daisyui";
 
 *{
-  font-family: "Italianno", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
-  font-size: 25px;
+  color: black;
 }

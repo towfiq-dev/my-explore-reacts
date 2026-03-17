@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$29.99/month",
+    "description": "Ideal for individuals who want to stay fit with essential gym access.",
+    "features": [
+      "Access to gym facilities during regular hours",
+      "Unlimited use of cardio equipment",
+      "1 Free personal training session (first month)",
+      "Access to basic fitness classes",
+      "Free Wi-Fi access",
+      "Discount on additional personal training sessions",
+      "Access to locker rooms"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Professional Plan",
+    "price": "$59.99/month",
+    "description": "Perfect for individuals who want additional perks and flexibility.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited use of all gym equipment",
+      "3 Free personal training sessions per month",
+      "Access to premium fitness classes",
+      "Access to sauna and steam room",
+      "Discount on merchandise and services",
+      "Free towel service",
+      "Access to exclusive member events"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Family Plan",
+    "price": "$99.99/month",
+    "popular": true,
+    "description": "The best value for families who want to stay healthy together.",
+    "features": [
+      "Access for up to 4 family members",
+      "All features of the Professional Plan",
+      "Discounted group training sessions",
+      "Childcare services during workout hours",
+      "Customized family nutrition plans",
+      "Quarterly fitness assessments",
+      "Access to family-only swimming hours"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Elite Athlete Plan",
+    "price": "$129.99/month",
+    "description": "Designed for professional athletes and serious bodybuilders.",
+    "features": [
+      "Everything in Professional Plan",
+      "Unlimited access to specialized heavy gear",
+      "Bi-weekly sessions with a master coach",
+      "Advanced body composition analysis (InBody)",
+      "Customized steroid-free hormone tracking",
+      "Access to recovery lounge and cryotherapy",
+      "Personal locker with name tag"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ultimate VIP",
+    "price": "$199.99/month",
+    "description": "The peak of luxury and personalized fitness management.",
+    "features": [
+      "All benefits of the Elite Athlete Plan",
+      "Daily laundry service for gym clothes",
+      "Private workout zone access",
+      "Complimentary protein shakes & healthy snacks",
+      "Monthly full-body massage therapy",
+      "Reserved VIP parking spot",
+      "24/7 direct chat with a dedicated nutritionist"
+    ]
+  }
+]
