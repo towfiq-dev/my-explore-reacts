@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+*{
+  font-family: "Italianno", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 25px;
+}
